@@ -12,8 +12,8 @@ function App() {
     <Init />
     <Project />
     <Skills />
-    <Footer />
     <Experience />
+    <Footer />
   </div>
   );
 }
