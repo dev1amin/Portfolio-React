@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.1",
   "homepage": "https://dev1amin.github.io/Portfolio-React",
-  "src": "src/Pages",
+  "src": "./src",
   "type": "module",
   "scripts": {
     "dev": "vite",
