@@ -38,6 +38,10 @@
     color: white;
     text-align: left;
   }
+
+  .skills-text p{
+    color: white;
+  }
   
   .skill-icon {
     font-size: 32px;
